@@ -679,7 +679,6 @@
         <artifactId>simpleclient_pushgateway</artifactId>
         <version>${prometheus.version}</version>
       </dependency>
-
       <dependency>
         <groupId>com.beust</groupId>
         <artifactId>jcommander</artifactId>
